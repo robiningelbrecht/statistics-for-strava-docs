@@ -35,7 +35,7 @@ Start off by showing some ❤️ and give this repo a star. Then from your comma
 > nano .env
 ```
 
-#### docker-compose.yml
+### docker-compose.yml
 
 ```yaml
 services:
@@ -53,7 +53,7 @@ services:
       - 8080:8080
 ```
 
-#### .env
+### .env
 
 {% hint style="warning" %}
 Every time you change the .env file, you need to restart your container for the changes to take effect.
