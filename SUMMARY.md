@@ -6,6 +6,7 @@
 
 * [ Prerequisites](getting-started/prerequisites.md)
 * [Installation](getting-started/installation.md)
+* [Importing challenges and trophies](getting-started/importing-challenges-and-trophies.md)
 
 ## Basics
 
