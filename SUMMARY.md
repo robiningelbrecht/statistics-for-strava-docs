@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Copy of Welcome](README.md)
+* [Welcome](README.md)
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [ Prerequisites](getting-started/prerequisites.md)
+* [Installation](getting-started/installation.md)
 
 ## Basics
 
@@ -15,7 +15,3 @@
 * [Interactive blocks](basics/interactive-blocks.md)
 * [OpenAPI](basics/openapi.md)
 * [Integrations](basics/integrations.md)
-
-***
-
-* [Page 1](page-1.md)
